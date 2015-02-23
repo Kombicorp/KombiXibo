@@ -1,0 +1,15 @@
+class XMDSSoap5
+{
+    private $db;
+
+    
+    private $licensed;
+    private $includeSchedule;
+    private $isAuditing;
+    private $displayId;
+    private $defaultLayoutId;
+    private $version_instructions;
+    private $clientType;
+    private $clientVersion;
+    private $clientCode;
+}
